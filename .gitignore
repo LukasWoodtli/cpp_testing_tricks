@@ -1,0 +1,4 @@
+node_modules/
+
+# This file is the output of the build
+presentation/index.html
