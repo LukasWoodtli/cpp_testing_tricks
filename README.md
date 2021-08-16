@@ -18,5 +18,6 @@ This is a collenction of tricks on how to test C++ code.
 10. Cucumber/Robot
 11. Fuzzing, Symbolic execution
 12. Property based testing
-13. Mocking
-14. Linker based fakes (impl. in test executable)
+13. Scientist (GitHub)
+14. Mocking
+15. Linker based fakes (impl. in test executable)
