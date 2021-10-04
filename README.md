@@ -7,7 +7,9 @@ This is a collenction of tricks on how to test C++ code.
 ## To Do
 
 1. Manual testing
-2. „Normal“ Unit Tests (TDD)
+2. „Normal“ Unit Tests (TDD, red, green, refactor)
+2.1. Coverage
+2.2. Mutation Testing
 3. Test internal free functions
 4. Test protected class members
 5. Asserts
