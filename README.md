@@ -12,6 +12,7 @@ This is a collenction of tricks on how to test C++ code.
 2.2. Mutation Testing
 3. Test internal free functions
 4. Test protected class members
+4.1. Test static functions
 5. Asserts
 6. Design by Contract
 7. Preload Fakes (`LD_PRELOAD` as seam)
