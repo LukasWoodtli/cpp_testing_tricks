@@ -24,3 +24,4 @@ This is a collenction of tricks on how to test C++ code.
 13. Scientist (GitHub)
 14. Mocking
 15. Linker based fakes (impl. in test executable)
+16. Preloading
