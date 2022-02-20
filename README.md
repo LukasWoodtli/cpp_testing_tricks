@@ -25,3 +25,4 @@ This is a collenction of tricks on how to test C++ code.
 14. Mocking
 15. Linker based fakes (impl. in test executable)
 16. Preloading
+17. Include test double header
